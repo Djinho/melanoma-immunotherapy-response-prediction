@@ -1,0 +1,23 @@
+2025-12-28 18:23:48,446 - INFO - ======================================================================
+2025-12-28 18:23:48,447 - INFO - STARTING DATA CONVERSION: Raw → h5ad
+2025-12-28 18:23:48,447 - INFO - ======================================================================
+2025-12-28 18:23:48,447 - INFO - 
+[Step 1/5] Checking input files...
+2025-12-28 18:23:48,447 - INFO - ✓ Found Expression matrix: ../data/raw/GSE120575_Sade_Feldman_melanoma_single_cells_TPM_GEO.txt.gz (120.9 MB)
+2025-12-28 18:23:48,447 - INFO - ✓ Found Metadata file: ../data/raw/GSE120575_patient_ID_single_cells.txt.gz (0.1 MB)
+2025-12-28 18:23:48,447 - INFO - 
+[Step 2/5] Loading metadata...
+2025-12-28 18:23:48,447 - INFO - Loading metadata...
+2025-12-28 18:23:48,508 - INFO -   Raw metadata shape: (16329, 35)
+2025-12-28 18:23:48,548 - INFO -   Cleaned metadata shape: (16291, 5)
+2025-12-28 18:23:48,548 - INFO -   Columns: ['patient_timepoint', 'response', 'therapy', 'timepoint', 'patient_id']
+2025-12-28 18:23:48,548 - INFO -   Response distribution:
+2025-12-28 18:23:48,550 - INFO -     - Non-responder: 10727
+2025-12-28 18:23:48,550 - INFO -     - Responder: 5564
+2025-12-28 18:23:48,550 - INFO -   Timepoint distribution:
+2025-12-28 18:23:48,552 - INFO -     - Post: 10363
+2025-12-28 18:23:48,552 - INFO -     - Pre: 5928
+2025-12-28 18:23:48,553 - INFO -   Unique patients: 33
+2025-12-28 18:23:48,553 - INFO - 
+[Step 3/5] Loading expression matrix...
+2025-12-28 18:23:48,553 - INFO - Loading expression matrix (this may take a few minutes)...

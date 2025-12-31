@@ -1,0 +1,1282 @@
+interaction,importance
+Tem/Temra cytotoxic T cells|Regulatory T cells|COPA|CD74,0.034566287878787884
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM10|NOTCH2,0.02258712121212121
+Tem/Trm cytotoxic T cells|Naive B cells|PSEN1|CD44,0.016346153846153847
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DRB5|LAG3,0.01618080808080808
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD58|CD2,0.01618080808080808
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DRB1|CD4,0.01601208791208791
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DQB1|CD4,0.014566287878787878
+Tem/Trm cytotoxic T cells|Regulatory T cells|GPI|AMFR,0.012779040404040405
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD99|PILRB,0.012398005698005699
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|LPP,0.011977551020408164
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GZMB|IGF2R,0.0115993265993266
+Regulatory T cells|Tem/Temra cytotoxic T cells|SELPLG|ITGB2,0.011411705177938943
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|CD47,0.010300846474953617
+Tem/Trm cytotoxic T cells|Regulatory T cells|COPA|CD74,0.010127946127946128
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|COPA|CD74,0.01
+Tem/Trm cytotoxic T cells|Regulatory T cells|CALM1|FAS,0.01
+Regulatory T cells|Regulatory T cells|HLA-DPB1|CD4,0.01
+Regulatory T cells|Regulatory T cells|COPA|CD74,0.01
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-F|CD8A,0.01
+Tem/Trm cytotoxic T cells|Regulatory T cells|CD58|CD2,0.01
+Regulatory T cells|Tem/Trm cytotoxic T cells|COPA|CD74,0.009776295133437989
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DPB1|CD4,0.008887741046831956
+Tem/Trm cytotoxic T cells|Naive B cells|COPA|CD74,0.00846064814814815
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL4|CCR8,0.008101615646258503
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LRPAP1|SORL1,0.00808080808080808
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS1|PTPRC,0.008025974025974025
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|KLRD1,0.008020833333333333
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DRB5|CD4,0.008020833333333333
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|CD4,0.008020833333333333
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-F|CD8B,0.007912087912087912
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|CD4,0.007912087912087912
+Regulatory T cells|Regulatory T cells|HLA-DQA1|CD4,0.007912087912087912
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM1|IL2RG,0.007912087912087912
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|B2M|KLRD1,0.007912087912087912
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GRN|TNFRSF1B,0.007896270396270395
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GPI|AMFR,0.0077380952380952375
+Tem/Temra cytotoxic T cells|Regulatory T cells|HMGB1|HAVCR2,0.0077380952380952375
+Regulatory T cells|Tem/Trm cytotoxic T cells|GSTP1|TRAF2,0.007466666666666666
+Regulatory T cells|Tem/Trm cytotoxic T cells|TXLNA|STX4,0.0070473970473970485
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS1|ITGB1,0.00703125
+Naive B cells|Regulatory T cells|HLA-DQA1|CD4,0.00703125
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GZMB|IGF2R,0.006545454545454546
+Regulatory T cells|Regulatory T cells|IL16|CD4,0.006545454545454546
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|VCAM1|ITGA4_ITGB1,0.006545454545454546
+Regulatory T cells|Tem/Temra cytotoxic T cells|COPA|CD74,0.006545454545454546
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGA5,0.006545454545454546
+Regulatory T cells|Regulatory T cells|HMGB1|CXCR4,0.006545454545454545
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HMGB1|HAVCR2,0.006545454545454545
+Regulatory T cells|Tem/Temra cytotoxic T cells|ICAM2|ITGAL_ITGB2,0.006545454545454545
+Regulatory T cells|Regulatory T cells|LGALS9|HAVCR2,0.006545454545454545
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|CD8B,0.006545454545454545
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-C|LILRB1,0.006545454545454545
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-G|CD8B,0.006545454545454545
+Tem/Trm cytotoxic T cells|Regulatory T cells|CD48|CD2,0.006545454545454545
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CD48|CD2,0.006481481481481481
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DPA1|LAG3,0.006481481481481481
+Regulatory T cells|Regulatory T cells|LGALS9|CD44,0.006481481481481481
+Tem/Temra cytotoxic T cells|Regulatory T cells|GZMB|IGF2R,0.006481481481481481
+Regulatory T cells|Tem/Temra cytotoxic T cells|ICAM3|ITGAL,0.006481481481481481
+Regulatory T cells|Tem/Trm cytotoxic T cells|ARPC5|LDLR,0.006481481481481481
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQB1|LAG3,0.006481481481481481
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DPA1|CD4,0.006481481481481481
+Naive B cells|Regulatory T cells|ADAM28|ITGA4,0.006481481481481481
+Tem/Trm cytotoxic T cells|Regulatory T cells|BSG|SLC16A1,0.006481481481481481
+Tem/Trm cytotoxic T cells|Regulatory T cells|SIRPG|CD47,0.006346153846153846
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM17|RHBDF2,0.006346153846153846
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNF|TNFRSF1B,0.006346153846153846
+Tem/Trm cytotoxic T cells|Regulatory T cells|MIF|CD74_CXCR4,0.006346153846153846
+Regulatory T cells|Tem/Temra cytotoxic T cells|MFNG|NOTCH2,0.006223456790123458
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|NAMPT|ITGA5_ITGB1,0.006223456790123458
+Naive B cells|Regulatory T cells|IL16|CD4,0.0061224489795918356
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|ITGB1,0.0061224489795918356
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-B|KLRD1,0.0061224489795918356
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM17|NOTCH1,0.0061224489795918356
+Regulatory T cells|Naive B cells|MIF|TNFRSF14,0.005437710437710438
+Regulatory T cells|Tem/Trm cytotoxic T cells|CCL5|CCR5,0.00530816326530612
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-A|APLP2,0.005289256198347108
+Regulatory T cells|Regulatory T cells|HLA-G|CD4,0.005250000000000001
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DRB1|CD4,0.005250000000000001
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPA1|CD4,0.0052499999999999995
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DPA1|LAG3,0.0052499999999999995
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|CCR5,0.0052499999999999995
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS1|ITGB1,0.0052499999999999995
+Tem/Trm cytotoxic T cells|Regulatory T cells|SELPLG|SELL,0.005240659340659342
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS9|PTPRC,0.005217202550535883
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNFSF9|HLA-DPA1,0.00521494708994709
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|TGFBR3,0.005128205128205129
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|S100A4|CCR5,0.005128205128205129
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-C|CD8B,0.005128205128205129
+Regulatory T cells|Tem/Temra cytotoxic T cells|GPI|AMFR,0.004871794871794872
+Tem/Temra cytotoxic T cells|Regulatory T cells|GNAI2|ADCY7,0.004871794871794872
+Regulatory T cells|Regulatory T cells|CD99|PILRB,0.004871794871794872
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SELPLG|ITGB2,0.004750000000000001
+Regulatory T cells|Tem/Trm cytotoxic T cells|HMGB1|HAVCR2,0.004750000000000001
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CALM1|FAS,0.00475
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|KLRD1,0.00475
+Tem/Temra cytotoxic T cells|Regulatory T cells|GNAI2|CCR5,0.0047107438016528915
+Tem/Temra cytotoxic T cells|Regulatory T cells|PSEN1|NCSTN,0.0047107438016528915
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SELPLG|ITGB2,0.0047107438016528915
+Naive B cells|Tem/Trm cytotoxic T cells|GRN|TNFRSF1B,0.004571428571428573
+Regulatory T cells|Naive B cells|ST6GAL1|CD22,0.004571428571428572
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|CD8B,0.004550865800865801
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS1|ITGB1,0.0041538461538461555
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DPA1|CD4,0.003946153846153846
+Regulatory T cells|Regulatory T cells|HLA-DPA1|CD4,0.0038775510204081642
+Regulatory T cells|Tem/Temra cytotoxic T cells|PSEN1|NOTCH2,0.0038775510204081642
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|CXCR4,0.0038775510204081642
+Tem/Trm cytotoxic T cells|Regulatory T cells|PKM|CD44,0.0038775510204081642
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|CD8B,0.003778409090909091
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|CD8A,0.003732142857142856
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DRA|LAG3,0.0036538461538461542
+Tem/Trm cytotoxic T cells|Regulatory T cells|IL16|CD4,0.003653846153846154
+Naive B cells|Regulatory T cells|CD48|CD2,0.003653846153846154
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-G|KLRD1,0.0035185185185185185
+Tem/Temra cytotoxic T cells|Regulatory T cells|S100A4|CCR5,0.0035185185185185185
+Regulatory T cells|Regulatory T cells|HLA-DRB1|CD4,0.0035185185185185185
+Tem/Temra cytotoxic T cells|Regulatory T cells|SPON2|ITGB1,0.0035185185185185185
+Regulatory T cells|Regulatory T cells|PSEN1|CD44,0.0035185185185185185
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|CD44,0.0035185185185185185
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|CD8A,0.0035185185185185185
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|COPA|CD74,0.0034545454545454545
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNFSF14|TNFRSF14,0.0034545454545454545
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB1|CD4,0.0034545454545454545
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|F2R,0.0034545454545454545
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM10|TSPAN14,0.0034545454545454545
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|SLC1A5,0.0034545454545454545
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MAML2|NOTCH2,0.0034545454545454545
+Regulatory T cells|Tem/Trm cytotoxic T cells|PSEN1|NOTCH2,0.0034545454545454545
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM17|NOTCH1,0.003454545454545454
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS9|PTPRC,0.003454545454545454
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ACTR2|LDLR,0.003454545454545454
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DPA1|LAG3,0.003454545454545454
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|CD3D,0.003454545454545454
+Regulatory T cells|Tem/Temra cytotoxic T cells|B2M|KLRC1,0.0033585858585858585
+Regulatory T cells|Regulatory T cells|CCL5|CXCR3,0.0032884615384615383
+Tem/Trm cytotoxic T cells|Naive B cells|PSEN1|NOTCH2,0.003053571428571428
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-A|APLP2,0.0029687499999999996
+Regulatory T cells|Regulatory T cells|HLA-DRB5|LAG3,0.002533333333333334
+Regulatory T cells|Tem/Trm cytotoxic T cells|ACTR2|LDLR,0.002520408163265307
+Regulatory T cells|Regulatory T cells|NAMPT|ADORA2A,0.002369614512471656
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-E|CD8A,0.0022619047619047627
+Regulatory T cells|Regulatory T cells|CXCL13|CXCR3,0.0022619047619047623
+Tem/Trm cytotoxic T cells|Regulatory T cells|SELPLG|ITGB2,0.0022166666666666663
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-A|APLP2,0.0021714285714285715
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LRPAP1|LDLR,0.0020879120879120873
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|ADCY7,0.0020879120879120873
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|KLRD1,0.0020879120879120873
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|SPON2|ITGB1,0.0020879120879120873
+Tem/Trm cytotoxic T cells|Naive B cells|MFNG|NOTCH2,0.0020879120879120873
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|CD8A,0.0020879120879120873
+Tem/Trm cytotoxic T cells|Naive B cells|ADAM10|CD44,0.0020879120879120873
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|NUCB2|ERAP1,0.0020879120879120873
+Regulatory T cells|Tem/Trm cytotoxic T cells|SIRPG|CD47,0.001979166666666667
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-G|CD4,0.001979166666666667
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|CD44,0.001979166666666667
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|NOTCH2,0.001979166666666667
+Regulatory T cells|Tem/Trm cytotoxic T cells|HSPA8|LDLR,0.001979166666666667
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TNFSF9|HLA-DPA1,0.001979166666666667
+Regulatory T cells|Regulatory T cells|CALM1|FAS,0.001979166666666667
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|KLRC1,0.001943181818181819
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DRB1|LAG3,0.0019191919191919194
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-A|LILRB1,0.0019191919191919194
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB1|CD4,0.001919191919191919
+Regulatory T cells|Regulatory T cells|HLA-DRA|CD4,0.001919191919191919
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|PTDSS1|JMJD6,0.0019000000000000006
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|LILRB1,0.0019000000000000006
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|CD47,0.0019000000000000006
+Regulatory T cells|Regulatory T cells|CD40LG|CD53,0.0019000000000000006
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGB2,0.0019000000000000006
+Regulatory T cells|Tem/Trm cytotoxic T cells|BTLA|TNFRSF14,0.0019000000000000006
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL5|CCR4,0.001876543209876543
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|VCAM1|ITGA4_ITGB1,0.001850649350649351
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CCL5|CXCR3,0.0016964285714285712
+Regulatory T cells|Tem/Trm cytotoxic T cells|LRPAP1|SORL1,0.001674679487179487
+Naive B cells|Tem/Trm cytotoxic T cells|MIF|TNFRSF14,0.001583333333333333
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CD99|PILRB,0.0015079365079365078
+Regulatory T cells|Tem/Trm cytotoxic T cells|ARF6|SMAP1,0.0014074074074074071
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TNFSF10|TNFRSF10B,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM10|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL5|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|B2M|KLRC1,0.0
+Regulatory T cells|Regulatory T cells|LTA|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS3|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DQB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MIF|TNFRSF14,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|CD44,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SPON2|ITGB2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-G|CD8A,0.0
+Regulatory T cells|Naive B cells|MIF|CD74_CXCR4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGB1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-G|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GZMB|IGF2R,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|SPON2|ITGB2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|PSEN1|NCSTN,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|MIF|CD44_CD74,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM1|ITGAL_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LTB|TNFRSF1A,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CD48|CD2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SPTAN1|PTPRA,0.0
+Regulatory T cells|Regulatory T cells|HMGB1|HAVCR2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD40LG|ITGA5_ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DRB1|LAG3,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-F|CD8B,0.0
+Regulatory T cells|Regulatory T cells|PSEN1|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|MIF|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LRPAP1|SORL1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM10|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DQA2|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CALM1|FAS,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GNAI2|S1PR1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SIRPG|CD47,0.0
+Regulatory T cells|Regulatory T cells|MIF|TNFRSF14,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|NCSTN,0.0
+Regulatory T cells|Naive B cells|HMGB1|CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|B2M|KLRD1,0.0
+Regulatory T cells|Naive B cells|SELPLG|ITGB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HMGB1|CXCR4,0.0
+Naive B cells|Regulatory T cells|HLA-DOB|CD4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LMAN1|MCFD2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF9|HLA-DPA1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-B|CD8B,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|SEMA4D|CD72,0.0
+Regulatory T cells|Regulatory T cells|CKLF|CCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM17|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LCK|CD8A_CD8B,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LAMA5|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CD47|SIRPG,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF9|HLA-DPA1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|FASLG|TNFRSF1A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|B2M|KLRC2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|PSEN1|NCSTN,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CALM1|KCNN4,0.0
+Regulatory T cells|Regulatory T cells|IL24|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|FAS,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GSTP1|TRAF2,0.0
+Regulatory T cells|Regulatory T cells|CD48|CD2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DRB1|LAG3,0.0
+Regulatory T cells|Regulatory T cells|ADAM17|IL6R,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HSPA8|ADRB2,0.0
+Regulatory T cells|Regulatory T cells|HLA-E|CD8A,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-C|CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-C|CD8A,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|IL16|CCR5,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ICAM2|ITGAM_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|APLP2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|TSPAN14,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TGFB1|ITGB1,0.0
+Regulatory T cells|Regulatory T cells|ARF6|SMAP1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DMA|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|PKM|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DPB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|S1PR1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM10|TSPAN5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|CD8B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|MFNG|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SELPLG|ITGAM,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|SLC1A5,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|KLRD1,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|TSPAN17,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|NCSTN,0.0
+Regulatory T cells|Regulatory T cells|LGALS1|CD69,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|VIM|CD44,0.0
+Naive B cells|Naive B cells|GPI|AMFR,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HSPA8|ADRB2,0.0
+Regulatory T cells|Regulatory T cells|ADAM17|ITGB1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TNF|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|BSG|SLC16A1,0.0
+Naive B cells|Regulatory T cells|CD22|PTPRC,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-E|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LRPAP1|LDLR,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRC2_KLRD1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|FASLG|TNFRSF10B,0.0
+Naive B cells|Naive B cells|VIM|CD44,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNF|TNFRSF1B,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|PTDSS1|JMJD6,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|NOTCH1,0.0
+Naive B cells|Regulatory T cells|MIF|CD44_CD74,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD40LG|CD53,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL3|CCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|SELPLG|SELL,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TNF|FAS,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-B|CD3D,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM10|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DQB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|VIM|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|MFNG|NOTCH2,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-B|CD8B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|MIF|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRA|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CALM1|PTPRA,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|KLRC1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DQA1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|IL16|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|CD44,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|CD72|CD5,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|FASLG|FAS,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GNAS|ADCY7,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|IL24|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGB2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LRPAP1|LDLR,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-A|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|S1PR1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LTA|TNFRSF14,0.0
+Regulatory T cells|Regulatory T cells|SELPLG|ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|MIF|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|TSPAN14,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM10|TSPAN14,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM3|ITGAL,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DQB1|CD4,0.0
+Regulatory T cells|Regulatory T cells|HLA-DRB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ICAM1|SPN,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|MIF|CD74_CXCR4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS1|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNF|TNFRSF1A,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ICAM2|ITGAL_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DRA|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|PTDSS1|JMJD6,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|SPON2|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL3|CCR5,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|ADCY7,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|SLC1A5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LTB|TNFRSF1A,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|HMGB1|CXCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|KLRD1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LTA|TNFRSF1B,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-E|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNFSF9|TNFRSF9,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|NOTCH1,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|IL6R,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|ST6GAL1|CD22,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|CD47,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|NAMPT|ADORA2A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GPI|AMFR,0.0
+Regulatory T cells|Regulatory T cells|MIF|CD74_CXCR4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HMGB1|CXCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GNAI2|S1PR1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-G|KLRC1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GNAI2|CCR5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DPA1|LAG3,0.0
+Regulatory T cells|Naive B cells|VIM|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRK1,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-B|CD8A,0.0
+Naive B cells|Regulatory T cells|HLA-DPA1|CD4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CD58|CD2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM17|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ARF6|SMAP1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|TRADD,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|NOTCH2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-F|CD8B,0.0
+Regulatory T cells|Regulatory T cells|LTA|RIPK1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CLEC2D|KLRB1,0.0
+Regulatory T cells|Regulatory T cells|CLEC2D|KLRB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM1|IL2RG,0.0
+Naive B cells|Regulatory T cells|HLA-DRB1|CD4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|PKM|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|HAVCR2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|BSG|SLC16A1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-A|APLP2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|MAML2|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GSTP1|TRAF2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CCL5|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HMGB1|CXCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-G|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CLEC2B|KLRF1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GNAS|ADRB2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|IL16|KCNA3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CLEC2D|KLRB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|CD8B,0.0
+Regulatory T cells|Regulatory T cells|GNAS|ADCY7,0.0
+Regulatory T cells|Regulatory T cells|IL24|IL10RB,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-C|CD8A,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GNAI2|F2R,0.0
+Regulatory T cells|Regulatory T cells|VIM|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|PTPRC,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-E|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|SLC1A5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|LPP,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-B|CD3D,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-F|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DQA2|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DPB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ARF6|SMAP1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|FASLG|TNFRSF10B,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM1|SPN,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HMGB1|CXCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DRB1|LAG3,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|TRADD,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|MIF|TNFRSF14,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|ADAM28|ITGA4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DMA|CD4,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|ADAM10|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LMAN1|MCFD2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-A|CD8A,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|MIF|CD44_CD74,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|TRADD,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM17|ITGB1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|NUCB2|ERAP1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|BTLA|CD247,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-G|CD8B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|PSEN1|NOTCH1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GPI|AMFR,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS9|CD44,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TGFB1|LPP,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CALM1|PTPRA,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-A|CD8A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS1|PTPRC,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-A|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ARPC5|ADRB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LRPAP1|LDLR,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL5|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-C|CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GRN|TNFRSF1A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|IL16|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPA1|CD4,0.0
+Regulatory T cells|Regulatory T cells|YBX1|NOTCH1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GNAI2|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL4L1|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|IL16|CCR5,0.0
+Regulatory T cells|Regulatory T cells|ICAM3|ITGAL,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|B2M|KLRD1,0.0
+Naive B cells|Regulatory T cells|CALM1|FAS,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS1|CD69,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB5|CD4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ICAM1|SPN,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|NCSTN,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MFNG|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNF|TRAF2,0.0
+Regulatory T cells|Regulatory T cells|TXLNA|STX4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF9|TNFRSF9,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-G|KLRD1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CALM1|FAS,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNFSF10|RIPK1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CLEC2D|KLRB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB5|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-G|CD8A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|YBX1|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|PSEN1|NCSTN,0.0
+Naive B cells|Naive B cells|CD22|PTPRC,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-C|CD8B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|TSPAN17,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|NUCB2|ERAP1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ARPC5|ADRB2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DRB5|LAG3,0.0
+Naive B cells|Regulatory T cells|HMGB1|CXCR4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LAMA5|CD44,0.0
+Naive B cells|Regulatory T cells|CD72|CD5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|SPON2|ITGA4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS9|PTPRC,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS3BP|ITGB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ACTR2|LDLR,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|PSEN1|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ARF6|SMAP1,0.0
+Naive B cells|Regulatory T cells|VIM|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS1|PTPRC,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|CD3D,0.0
+Regulatory T cells|Regulatory T cells|PKM|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MFNG|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SELPLG|SELL,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM17|NOTCH1,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|VIM|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GZMA|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQB2|LAG3,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GNAI2|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GZMB|IGF2R,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|SELPLG|ITGAM,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQA2|CD4,0.0
+Regulatory T cells|Regulatory T cells|BSG|SLC16A1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ICAM2|ITGAL_ITGB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SPON2|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|PTPRC,0.0
+Regulatory T cells|Regulatory T cells|MAML2|NOTCH2,0.0
+Regulatory T cells|Regulatory T cells|HLA-DQB1|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|MFNG|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS1|CD69,0.0
+Regulatory T cells|Regulatory T cells|LGALS9|CD47,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|IL24|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNF|NOTCH1,0.0
+Naive B cells|Regulatory T cells|PKM|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|ICOS,0.0
+Regulatory T cells|Regulatory T cells|SECTM1|CD7,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ENTPD1|ADORA2A,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS1|PTPRC,0.0
+Regulatory T cells|Regulatory T cells|IL16|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|ITGA5,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MIF|CD44_CD74,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CD47|SIRPG,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TIMP1|CD63,0.0
+Regulatory T cells|Regulatory T cells|GNAI2|F2R,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ARF6|SMAP1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF10|RIPK1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAS|ADCY7,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|LILRB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SPTAN1|PTPRA,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-C|LILRB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM2|ITGAL_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNF|TNFRSF1B,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|PSEN1|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DRB1|CD4,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|SELPLG|ITGB2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|PSEN1|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRA|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|CD8B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS1|CD69,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|PSEN1|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TIMP1|CD63,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MIF|TNFRSF14,0.0
+Naive B cells|Regulatory T cells|ARF6|SMAP1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LCK|CD8A_CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|PKM|CD44,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DQA1|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|YBX1|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL5|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|LPP,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-F|CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GPI|AMFR,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF9|TNFRSF9,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM17|ITGB1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRC3_KLRD1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|B2M|KLRD1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL4|CCR5,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS9|SLC1A5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|MIF|CD74_CXCR4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM1|ITGAL_ITGB2,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|CD47|SIRPG,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|GPI|AMFR,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|TSPAN14,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CLEC2D|KLRB1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF10|TNFRSF10B,0.0
+Regulatory T cells|Naive B cells|PSEN1|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|SPON2|ITGB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAS|ADRB2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|MAML2|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ACTR2|ADRB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|BSG|SLC16A1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|BSG|SLC16A1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|VIM|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM1|SPN,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DPB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|LILRB1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|VIM|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF9|TNFRSF9,0.0
+Regulatory T cells|Regulatory T cells|CD47|SIRPG,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|NAMPT|ADORA2A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD59|CD2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TNF|TRADD,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|PKM|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GZMA|F2R,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ICAM1|IL2RA,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNF|TRADD,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GPI|AMFR,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-E|KLRK1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS9|CD47,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM17|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|TGFBR3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GNAI2|F2R,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DQB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM17|RHBDF2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGA4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GPI|AMFR,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GNAI2|S1PR1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-C|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-F|CD8B,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ENTPD1|ADORA2A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CD58|CD2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|B2M|KLRC1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TXLNA|STX4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LAMA5|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL5|SDC4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQB1|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM10|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CD99|CD81,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GZMA|F2R,0.0
+Regulatory T cells|Regulatory T cells|MFNG|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-F|CD8A,0.0
+Regulatory T cells|Regulatory T cells|PSEN1|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|KLRD1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM17|IL6R,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ICAM1|ITGAL_ITGB2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|B2M|KLRD1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DRB5|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|FASLG|FAS,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL5|CCR5,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|MIF|CD44_CD74,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|YBX1|NOTCH1,0.0
+Regulatory T cells|Naive B cells|PSEN1|NCSTN,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL4|CCR5,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-E|KLRK1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|BSG|SLC16A1,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-A|CD8A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ICAM3|ITGAL,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS1|PTPRC,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HMGB1|HAVCR2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-G|CD8A,0.0
+Regulatory T cells|Regulatory T cells|LRPAP1|SORL1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM1|ITGAL_ITGB2,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|CD22|PTPRC,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|IL16|KCNA3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CALM1|PTPRA,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|MAML2|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|IL16|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|LILRB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-A|CD8B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DQA1|CD4,0.0
+Regulatory T cells|Naive B cells|ADAM17|RHBDF2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|VIM|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|BTLA|CD247,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ARPC5|ADRB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MAML2|NOTCH1,0.0
+Regulatory T cells|Regulatory T cells|HLA-DPA1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-C|CD8B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL3|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM2|ITGAM_ITGB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|S1PR5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNF|TRADD,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-DMA|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-B|CD3D,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|F2R,0.0
+Regulatory T cells|Regulatory T cells|MIF|CD44_CD74,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-G|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DRB5|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|YBX1|NOTCH1,0.0
+Regulatory T cells|Regulatory T cells|LGALS3|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|ITGB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DQB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|MIF|TNFRSF14,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|SIRPG|CD47,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TXLNA|STX4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL3|CCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS1|CD69,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNF|NOTCH1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|SECTM1|CD7,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|ICOS,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ICAM1|ITGAL_ITGB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CKLF|CCR4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|LPP,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GZMB|IGF2R,0.0
+Regulatory T cells|Regulatory T cells|ICAM1|ITGAL_ITGB2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL5|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAS|ADRB2,0.0
+Regulatory T cells|Regulatory T cells|TNF|FAS,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|CCR5,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-E|CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPA1|LAG3,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-G|CD8B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CALM1|KCNN4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TXLNA|STX4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRC3_KLRD1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|SPON2|ITGA4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRK1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|SPON2|ITGA4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|MFNG|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|CD47,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|RHBDF2,0.0
+Regulatory T cells|Regulatory T cells|ENTPD1|ADORA2A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GNAI2|ADCY7,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM10|CD44,0.0
+Regulatory T cells|Regulatory T cells|LGALS3BP|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HSPA8|LDLR,0.0
+Regulatory T cells|Regulatory T cells|LMAN1|MCFD2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|PTDSS1|JMJD6,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GRN|TNFRSF1A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GNAS|ADCY7,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HSPA8|LDLR,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LAMA5|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNFSF9|HLA-DPA1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|NOTCH2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNF|ICOS,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GNAI2|CCR5,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-E|KLRK1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-F|CD8A,0.0
+Regulatory T cells|Regulatory T cells|ITGB2|CD226,0.0
+Regulatory T cells|Regulatory T cells|LGALS1|PTPRC,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|PKM|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|CD44,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|TSPAN5,0.0
+Naive B cells|Regulatory T cells|HLA-DRB5|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LTB|TNFRSF1A,0.0
+Regulatory T cells|Regulatory T cells|CD58|CD2,0.0
+Naive B cells|Regulatory T cells|CD99|PILRB,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPB1|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-C|LILRB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ARF6|SMAP1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-E|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ARPC5|LDLR,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-C|CD8B,0.0
+Naive B cells|Regulatory T cells|HLA-DQB1|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM1|SPN,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SPTAN1|PTPRA,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS3|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ACTR2|ADRB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|MFNG|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|VIM|CD44,0.0
+Naive B cells|Regulatory T cells|CD47|SIRPG,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-G|CD8A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LRPAP1|LDLR,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD59|CD2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TIMP1|CD63,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|SELPLG|SELL,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|PSEN1|NCSTN,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|MFNG|NOTCH1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS9|HAVCR2,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|CD99|PILRB,0.0
+Regulatory T cells|Regulatory T cells|LGALS9|PTPRC,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|SELPLG|SELL,0.0
+Regulatory T cells|Regulatory T cells|TNF|ICOS,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|IL16|KCNA3,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|GPI|AMFR,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TXLNA|STX4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL4L1|CCR5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|HLA-B|CD3D,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|CD8A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ICAM1|IL2RG,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|FASLG|FAS,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQA1|CD4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|NAMPT|ADORA2A,0.0
+Regulatory T cells|Regulatory T cells|SIRPG|CD47,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQA1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|VIM|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNF|FAS,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|S100A4|CCR5,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-F|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CD99|PILRB,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|YBX1|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|ICOS,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ICAM2|ITGAL_ITGB2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRA|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-B|KLRD1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CLEC2D|KLRB1,0.0
+Naive B cells|Regulatory T cells|MIF|CD74_CXCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GSTP1|TRAF2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|NAMPT|ITGA5_ITGB1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CD99|PILRB,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|SELPLG|ITGB2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|FAS,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-F|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|ITGA5,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF9|TRAF2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD58|CD2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TXLNA|STX4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-A|CD8A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD99|PILRB,0.0
+Naive B cells|Naive B cells|MIF|CD74_CXCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD40LG|CD53,0.0
+Regulatory T cells|Regulatory T cells|GNAI2|ADCY7,0.0
+Naive B cells|Regulatory T cells|GRN|TNFRSF1B,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|PKM|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-B|CD8B,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ARPC5|LDLR,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|BSG|SLC16A1,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-F|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM3|ITGAL,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM10|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|SELPLG|SELL,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|NCSTN,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|IL16|CCR5,0.0
+Regulatory T cells|Regulatory T cells|HLA-DQB1|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-G|LILRB1,0.0
+Regulatory T cells|Naive B cells|ICAM3|ITGAL,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRK1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CXCL13|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|MIF|CD44_CD74,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|SPTAN1|PTPRA,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-F|LILRB1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DPB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS9|CD47,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|TSPAN5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ENTPD1|ADORA2A,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DQB1|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPB1|LAG3,0.0
+Regulatory T cells|Naive B cells|PKM|CD44,0.0
+Naive B cells|Regulatory T cells|HLA-A|APLP2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|VCAM1|ITGA4_ITGB1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TXLNA|STX4,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|MIF|CD44_CD74,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LMAN1|MCFD2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRC3_KLRD1,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-A|CD8B,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|YBX1|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNF|TRADD,0.0
+Naive B cells|Regulatory T cells|MIF|TNFRSF14,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TNF|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-B|CD8A,0.0
+Naive B cells|Regulatory T cells|HLA-G|CD4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|TSPAN14,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CD48|CD244,0.0
+Regulatory T cells|Regulatory T cells|ICAM2|ITGAL_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CALM1|FAS,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|TRAF2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|CXCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-C|CD8A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GRN|TNFRSF1B,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-A|CD8B,0.0
+Regulatory T cells|Regulatory T cells|HLA-G|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DQA1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ICAM3|ITGAL,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HSPA8|LDLR,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM2|ITGAL_ITGB2,0.0
+Regulatory T cells|Regulatory T cells|PTDSS1|JMJD6,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|PSEN1|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|MFNG|NOTCH1,0.0
+Regulatory T cells|Regulatory T cells|PSEN1|NCSTN,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF10|RIPK1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL5|SDC4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|PSEN1|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|COPA|CD74,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GRN|TNFRSF1B,0.0
+Regulatory T cells|Regulatory T cells|CCL5|CCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|B2M|KLRD1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|PTDSS1|JMJD6,0.0
+Regulatory T cells|Regulatory T cells|ICAM1|IL2RG,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-B|CD3D,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DPB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ACTR2|LDLR,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|NAMPT|ADORA2A,0.0
+Regulatory T cells|Regulatory T cells|TNF|TRADD,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LRPAP1|SORL1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LAMA5|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GRN|TNFRSF1A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD48|CD2,0.0
+Naive B cells|Naive B cells|IL24|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ICAM1|IL2RG,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DMA|CD4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TGFB1|CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-G|CD8B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|SPON2|ITGB2,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|CD48|CD2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD48|CD244,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|FAM3C|CLEC2D,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|B2M|KLRC2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LRPAP1|SORL1,0.0
+Naive B cells|Naive B cells|LTB|CD40,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TGFB1|CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-G|CD4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GZMA|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MAML2|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|YBX1|NOTCH1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD48|CD2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-E|CD8A,0.0
+Regulatory T cells|Regulatory T cells|CALM1|KCNN4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GNAI2|S1PR5,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CD99|PILRB,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HSPA8|LDLR,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HMGB1|HAVCR2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-F|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|VCAM1|ITGA4_ITGB7,0.0
+Regulatory T cells|Regulatory T cells|ICAM1|IL2RA,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL4|CCR5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNF|TRAF2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM17|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|APLP2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CD48|CD2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-G|KLRD1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GRN|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CD99|PILRB,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL5|CCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-B|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM2|ITGAL_ITGB2,0.0
+Naive B cells|Naive B cells|ST6GAL1|CD22,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-A|LILRB1,0.0
+Regulatory T cells|Regulatory T cells|HLA-A|APLP2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MIF|CD44_CD74,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|MFNG|NOTCH2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ICAM1|SPN,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL4|CCR5,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DPA1|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|FASLG|TNFRSF1A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|IL24|NOTCH2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LRPAP1|SORL1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM1|IL2RG,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MIF|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|NUCB2|ERAP1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|LILRB1,0.0
+Regulatory T cells|Regulatory T cells|CCL5|SDC4,0.0
+Regulatory T cells|Regulatory T cells|LAMA5|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DQA1|CD4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|NUCB2|ERAP1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-C|CD8A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-G|KLRD1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|PTDSS1|JMJD6,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CCL5|SDC4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CALM1|PTPRA,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS1|ITGB1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS1|CD69,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|SELPLG|ITGB2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-C|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|PTDSS1|JMJD6,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TNFSF10|RIPK1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GRN|TNFRSF1B,0.0
+Regulatory T cells|Regulatory T cells|GNAI2|S1PR1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TGFB1|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|CD8A,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GNAI2|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|NAMPT|ADORA2A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GNAI2|ADCY7,0.0
+Regulatory T cells|Regulatory T cells|CCL5|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SELPLG|SELL,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|FASLG|TNFRSF10B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GZMA|F2R,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF10|CCR6,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|TNF|TNFRSF1A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LTA|RIPK1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF9|TRAF2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRC2_KLRD1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MFNG|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPB1|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DRA|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-B|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HMGB1|CXCR4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ICAM3|ITGAL,0.0
+Regulatory T cells|Naive B cells|ADAM10|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GZMA|F2R,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|FAM3C|PDCD1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|MIF|CD44_CD74,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS3|LAG3,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|PKM|CD44,0.0
+Regulatory T cells|Regulatory T cells|SELPLG|SELL,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DRA|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LCK|CD8A_CD8B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|VIM|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-A|APLP2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ARF6|SMAP1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CD58|CD2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM17|RHBDF2,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-E|CD8A,0.0
+Naive B cells|Regulatory T cells|HLA-B|CD3D,0.0
+Regulatory T cells|Regulatory T cells|GNAI2|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF9|HLA-DPA1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM10|TSPAN14,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LRPAP1|SORL1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DRA|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GZMA|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LRPAP1|LDLR,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DMA|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-B|CD8A,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LTB|TNFRSF1A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ACTR2|ADRB2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CCL5|CXCR3,0.0
+Regulatory T cells|Regulatory T cells|BTLA|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL5|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|FAM3C|CLEC2D,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GRN|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MFNG|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|FASLG|FAS,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|CD8A,0.0
+Regulatory T cells|Regulatory T cells|ADAM17|NOTCH1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|ITGB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ARF6|SMAP1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GNAI2|F2R,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAS|ADCY7,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|FAM3C|PDCD1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DRB1|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|PSEN1|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS9|CD47,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL4L1|CCR5,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-E|CD8B,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-A|CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LAMA5|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DRA|LAG3,0.0
+Regulatory T cells|Naive B cells|SEMA4D|CD72,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ICAM1|ITGAL_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HMGB1|CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DPA1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL5|SDC4,0.0
+Naive B cells|Naive B cells|HMGB1|CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LTA|TNFRSF14,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS9|SLC1A5,0.0
+Regulatory T cells|Regulatory T cells|HLA-F|CD8A,0.0
+Naive B cells|Naive B cells|MIF|CD44_CD74,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CD99|CD81,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQA1|CD4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|GRN|TNFRSF1B,0.0
+Regulatory T cells|Regulatory T cells|HLA-A|CD8A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM2|ITGAL_ITGB2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DQB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ICAM1|IL2RG,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DRB5|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS1|CD69,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-C|CD8A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HMGB1|CXCR4,0.0
+Regulatory T cells|Naive B cells|SELPLG|SELL,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-G|CD8B,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CALM1|FAS,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL3|CCR5,0.0
+Regulatory T cells|Regulatory T cells|HLA-B|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|VCAM1|ITGA4_ITGB7,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|PKM|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MFNG|NOTCH1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|ADAM10|NOTCH1,0.0
+Regulatory T cells|Naive B cells|LTB|CD40,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CCL5|CXCR3,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD40LG|TRAF3,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TXLNA|STX4,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS9|CD44,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|CD40LG|ITGAM_ITGB2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GNAI2|CXCR3,0.0
+Regulatory T cells|Regulatory T cells|TNF|TRAF2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS1|CD69,0.0
+Regulatory T cells|Regulatory T cells|BTLA|CD247,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CXCL13|CXCR3,0.0
+Naive B cells|Naive B cells|ADAM28|ITGA4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|PKM|CD44,0.0
+Regulatory T cells|Regulatory T cells|GZMA|F2R,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ICAM1|IL2RA,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|MFNG|NOTCH1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LAMA5|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SPON2|ITGA4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SIRPG|CD47,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS1|PTPRC,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRA|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ICAM3|ITGAL,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGB1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS1|ITGB1,0.0
+Naive B cells|Regulatory T cells|HLA-DRA|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|NUCB2|ERAP1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-F|LILRB1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CD47|SIRPG,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MICB|HCST_KLRK1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|CXCR3,0.0
+Regulatory T cells|Regulatory T cells|MFNG|NOTCH2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ACTR2|LDLR,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|NAMPT|ITGA5_ITGB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS9|HAVCR2,0.0
+Regulatory T cells|Regulatory T cells|TNF|NOTCH1,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HLA-C|CD8A,0.0
+Naive B cells|Regulatory T cells|HLA-DMB|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CD58|CD2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS9|SLC1A5,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|SELPLG|ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|CXCR4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS1|PTPRC,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CCL5|CXCR3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS1|CD69,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LRPAP1|SORL1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM17|NOTCH1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|S100A4|CCR5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-A|CD8A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|PTPRC,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DQA1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|FAS,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-B|LILRB1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|NAMPT|ADORA2A,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL5|CXCR3,0.0
+Regulatory T cells|Regulatory T cells|ICAM1|SPN,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM17|RHBDF2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SELPLG|ITGAM,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|CXCR4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DRA|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TIMP1|CD63,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|PSEN1|NOTCH2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-C|CD8A,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNF|ICOS,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CALM1|PTPRA,0.0
+Naive B cells|Naive B cells|PKM|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ARPC5|LDLR,0.0
+Regulatory T cells|Regulatory T cells|HLA-B|CD3D,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|NAMPT|ADORA2A,0.0
+Regulatory T cells|Regulatory T cells|NUCB2|ERAP1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|NUCB2|ERAP1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|SPON2|ITGA4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DQA2|CD4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-DQA1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GNAS|ADCY7,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CD47|SIRPG,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|IL16|CD4,0.0
+Naive B cells|Regulatory T cells|HLA-DMA|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GZMA|F2R,0.0
+Regulatory T cells|Regulatory T cells|GSTP1|TRAF2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS1|PTPRC,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HMGB1|CXCR4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DPB1|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-E|CD8A,0.0
+Regulatory T cells|Regulatory T cells|HLA-DMA|CD4,0.0
+Regulatory T cells|Regulatory T cells|GNAI2|CCR5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS9|HAVCR2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MAML2|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB5|CD4,0.0
+Regulatory T cells|Regulatory T cells|TNFSF10|TNFRSF10A,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|GNAI2|ADCY7,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ITGB2|CD226,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CD58|CD2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL3|CCR5,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|CXCR3,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CALM1|FAS,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|COPA|CD74,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MAML2|NOTCH1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|TNF|TNFRSF1A,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|TNFRSF1A,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|CD99|PILRB,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM17|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM17|RHBDF2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS9|CD44,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|B2M|KLRC2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CALM1|PTPRA,0.0
+Regulatory T cells|Regulatory T cells|ADAM10|TSPAN14,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|CD48|CD2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|TSPAN14,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-G|CD8A,0.0
+Naive B cells|Regulatory T cells|HLA-DQA2|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS9|PTPRC,0.0
+Regulatory T cells|Regulatory T cells|HLA-DRB5|CD4,0.0
+Regulatory T cells|Regulatory T cells|HLA-DQA2|CD4,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LTA|TNFRSF1A,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DQB1|CD4,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|SELPLG|SELL,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TGFB1|TGFBR3,0.0
+Regulatory T cells|Regulatory T cells|S100A4|CCR5,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|PSEN1|CD44,0.0
+Regulatory T cells|Naive B cells|GPI|AMFR,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ACTR2|LDLR,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-E|CD8B,0.0
+Regulatory T cells|Regulatory T cells|IL16|KCNA3,0.0
+Naive B cells|Regulatory T cells|IL24|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|CALM1|FAS,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAS|ADCY7,0.0
+Regulatory T cells|Regulatory T cells|MAML2|NOTCH1,0.0
+Regulatory T cells|Naive B cells|SIRPG|CD47,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|GNAS|ADCY7,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|YBX1|NOTCH1,0.0
+Regulatory T cells|Naive B cells|MIF|CD44_CD74,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM10|IL6R,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-F|CD8A,0.0
+Naive B cells|Naive B cells|MIF|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TGFB1|LPP,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS3BP|ITGB1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DMB|CD4,0.0
+Regulatory T cells|Regulatory T cells|LGALS9|SLC1A5,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|ADCY7,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|NOTCH1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MIF|CD74_CXCR4,0.0
+Regulatory T cells|Regulatory T cells|TNF|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|HLA-DRA|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|TGFBR3,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|SPTAN1|PTPRA,0.0
+Regulatory T cells|Regulatory T cells|CD59|CD2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LCK|CD8A_CD8B,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|PTDSS1|JMJD6,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|ICAM3|ITGAL,0.0
+Regulatory T cells|Naive B cells|PSEN1|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|S100A4|CCR5,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-E|KLRK1,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CCL4|CCR8,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS9|PTPRC,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD47|SIRPG,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|ARPC5|LDLR,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|MAML2|NOTCH2,0.0
+Regulatory T cells|Naive B cells|MFNG|NOTCH2,0.0
+Regulatory T cells|Regulatory T cells|LTA|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-DQB2|LAG3,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|CCL4L1|CCR5,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CXCL13|CXCR3,0.0
+Regulatory T cells|Regulatory T cells|TIMP1|CD63,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GNAI2|S1PR1,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|IL16|CCR5,0.0
+Regulatory T cells|Regulatory T cells|HLA-DRA|LAG3,0.0
+Regulatory T cells|Regulatory T cells|HLA-C|CD8A,0.0
+Regulatory T cells|Regulatory T cells|GPI|AMFR,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|IL16|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS3|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|GSTP1|TRAF2,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|TRAF2,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DPB1|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS1|ITGB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|NAMPT|ADORA2A,0.0
+Regulatory T cells|Naive B cells|ADAM10|CD44,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|PTDSS1|JMJD6,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|LGALS9|HAVCR2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GRN|TNFRSF1B,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|LGALS9|CD47,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|SELPLG|ITGB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAI2|ADCY7,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM10|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|MIF|CD44_CD74,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|MFNG|NOTCH1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|TNF|NOTCH1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LTA|TNFRSF1B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-F|LILRB1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|GNAS|ADCY7,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TIMP1|CD63,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LGALS1|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ADAM10|CD44,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DRB5|LAG3,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|LGALS9|SLC1A5,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNFSF10|TNFRSF10A,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LCK|CD8A_CD8B,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HSPA8|ADRB2,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPB1|LAG3,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|PSEN1|NOTCH1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DRB5|CD4,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-DPA1|LAG3,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|ADAM17|ITGA5,0.0
+Naive B cells|Tem/Trm cytotoxic T cells|HMGB1|CXCR4,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|CKLF|CCR4,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ADAM17|ITGB1,0.0
+Regulatory T cells|Naive B cells|COPA|CD74,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|BTLA|TNFRSF14,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|MAML2|NOTCH2,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|VIM|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|LGALS9|CD44,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|CD99|CD81,0.0
+Tem/Trm cytotoxic T cells|Naive B cells|SIRPG|CD47,0.0
+Regulatory T cells|Regulatory T cells|HLA-DPB1|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|ICAM3|ITGAL,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|ADAM10|IL6R,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|HSPA8|LDLR,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|ITGB2|CD226,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|NUCB2|ERAP1,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|HLA-DRB5|LAG3,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|ARPC5|LDLR,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|TNF|FAS,0.0
+Regulatory T cells|Regulatory T cells|TNFSF10|RIPK1,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|TNF|TNFRSF1B,0.0
+Regulatory T cells|Regulatory T cells|CD40LG|TRAF3,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|HLA-E|KLRC2_KLRD1,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|ADAM10|NOTCH2,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNF|FAS,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TGFB1|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-F|CD8A,0.0
+Naive B cells|Regulatory T cells|HLA-DPB1|CD4,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|CD48|CD2,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|HLA-A|APLP2,0.0
+Regulatory T cells|Regulatory T cells|LGALS1|ITGB1,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|TNFSF14|TNFRSF14,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|LGALS3|LAG3,0.0
+Tem/Trm cytotoxic T cells|Regulatory T cells|MIF|TNFRSF14,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|MIF|CD44_CD74,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|LCK|CD8A_CD8B,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|CD3D,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|FASLG|FAS,0.0
+Tem/Temra cytotoxic T cells|Regulatory T cells|SELPLG|SELL,0.0
+Tem/Trm cytotoxic T cells|Tem/Temra cytotoxic T cells|HLA-B|CD3D,0.0
+Tem/Temra cytotoxic T cells|Tem/Temra cytotoxic T cells|PSEN1|CD44,0.0
+Regulatory T cells|Tem/Temra cytotoxic T cells|GNAI2|S1PR1,0.0
+Regulatory T cells|Regulatory T cells|GRN|TNFRSF1B,0.0
+Tem/Temra cytotoxic T cells|Tem/Trm cytotoxic T cells|TNFSF14|TNFRSF14,0.0
+Tem/Trm cytotoxic T cells|Tem/Trm cytotoxic T cells|IL16|KCNA3,0.0
+Regulatory T cells|Tem/Trm cytotoxic T cells|IL24|IL10RB,0.0

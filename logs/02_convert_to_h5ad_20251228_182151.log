@@ -1,0 +1,30 @@
+2025-12-28 18:21:51,053 - INFO - ======================================================================
+2025-12-28 18:21:51,053 - INFO - STARTING DATA CONVERSION: Raw → h5ad
+2025-12-28 18:21:51,053 - INFO - ======================================================================
+2025-12-28 18:21:51,054 - INFO - 
+[Step 1/5] Checking input files...
+2025-12-28 18:21:51,054 - INFO - ✓ Found Expression matrix: ../data/raw/GSE120575_Sade_Feldman_melanoma_single_cells_TPM_GEO.txt.gz (120.9 MB)
+2025-12-28 18:21:51,054 - INFO - ✓ Found Metadata file: ../data/raw/GSE120575_patient_ID_single_cells.txt.gz (0.1 MB)
+2025-12-28 18:21:51,054 - INFO - 
+[Step 2/5] Loading metadata...
+2025-12-28 18:21:51,054 - INFO - Loading metadata...
+2025-12-28 18:21:51,113 - INFO -   Raw metadata shape: (16329, 35)
+2025-12-28 18:21:51,143 - INFO -   Cleaned metadata shape: (16291, 5)
+2025-12-28 18:21:51,143 - INFO -   Columns: ['patient_timepoint', 'response', 'therapy', 'timepoint', 'patient_id']
+2025-12-28 18:21:51,143 - INFO -   Response distribution:
+2025-12-28 18:21:51,146 - INFO -     - Non-responder: 10727
+2025-12-28 18:21:51,146 - INFO -     - Responder: 5564
+2025-12-28 18:21:51,146 - INFO -   Timepoint distribution:
+2025-12-28 18:21:51,147 - INFO -     - Post: 10363
+2025-12-28 18:21:51,147 - INFO -     - Pre: 5928
+2025-12-28 18:21:51,148 - INFO -   Unique patients: 33
+2025-12-28 18:21:51,148 - INFO - 
+[Step 3/5] Loading expression matrix...
+2025-12-28 18:21:51,148 - INFO - Loading expression matrix (this may take a few minutes)...
+2025-12-28 18:21:51,158 - ERROR -   Failed to load expression matrix: Error tokenizing data. C error: Expected 16292 fields in line 3, saw 16293
+
+2025-12-28 18:21:51,158 - ERROR - 
+
+FATAL ERROR: Error tokenizing data. C error: Expected 16292 fields in line 3, saw 16293
+
+2025-12-28 18:21:51,159 - ERROR - Conversion failed. Check log for details.
